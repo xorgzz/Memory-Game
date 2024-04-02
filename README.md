@@ -1,5 +1,5 @@
 # Memory-Game
-Game to test your memory skills
+## Game to test your memory skills
 3 Game modes
  - Easy 4x4
  - Medium 6x6
