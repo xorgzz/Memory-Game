@@ -14,8 +14,8 @@ How to run?\
 build.bat - debug\
 MemoryGame.vbs - consoleless start **ONLY FOR WINDOWS**
 
-### Game Preview:
+## Game Preview
 ![image](https://github.com/xorgzz/Memory-Game/assets/118397053/638e98c2-2380-4eec-8f03-b0bfaec12a17)
 
 
-#### GLHF 
+### GLHF 
