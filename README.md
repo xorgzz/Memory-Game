@@ -1,4 +1,4 @@
-# Memory-Game
+# Memory_Game
 ### Game to test your memory skills
 ![image](https://github.com/xorgzz/Memory-Game/assets/118397053/b423eb84-60d1-44bd-8e4b-fcff8ad3bc8e)
  - Easy 4x4
